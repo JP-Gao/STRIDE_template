@@ -1,6 +1,8 @@
 ## STRIDE_project_template
 Setting up a template repository to manage STRIDE projects
 
+JPG
+
 The purpose of this project is [].
 My hypothesis is [].
 
