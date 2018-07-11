@@ -30,7 +30,7 @@ displacement, its characteristics could be divided into the following categories
 # Methodology
 
 I will conduct a basic linear regression first with the model sales as dependent variable and all other vehicle 
-characteristics as the independent variables. I will also look at the correlation between varialbes and determine 
+characteristics as the independent variables. I will also look at the correlation between variables and determine 
 categorical or continuous variables.After the linear regression, I will also try different approaches like discrete
  choice model, random forest, support vector machine and so on.
 
