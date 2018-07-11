@@ -1,16 +1,27 @@
-The data will be collected by using web crawler and raw data will be stored in my personal computer and also on one drive. 
-The raw data will be named as "Raw_Data" and stored as a csv file. 
+# How the data will be collected and where the data will be stored
 
-I will collect a comprehensive annual data set of all the car model marketed from the year 2004 to year 2013 in the Chinese
- automobile industry. Within each car model, I will collect information of quantity sales of each displacment of that model 
-from 2004-2016 China Auto Market Almanac. For each model displacement, I will also gather price and information on vehicle 
-characteristics.
+The data will be collected by using web crawler and raw data will be stored in my personal computer and also on google drive. 
 
-I will use www.autohome.com.cn as the main website to conduct web crawling. 
+# How the raw data will be named
 
-Analyzed data will be stored as Analyzed_data both on my computer and on OneDrive.
+The raw data will be named as "YYYYMMDD_Raw_Data" and stored as a csv file. 
+
+I will collect a comprehensive annual data set of all the car model marketed from the year 2004 to year 2013 in the Chinese automobile industry. Within each car model, I will collect information of quantity sales of each displacement of that model from 2004-2016 China Auto Market Almanac. For each model displacement, I will also gather price and information on vehicle characteristics. I will use www.autohome.com.cn as the main website to conduct web crawling. 
+
+# How will data be analyzed
+
+Linear regression, random forest, discrete choice model, support vector machine, gradient boosted tree and so on. These approaches may be used to analyze the relationship between sales and vehicle characteristics.
+
+# How will the analysis be recorded
+
+The analysis will also be on Google Drive.
+
+# Where will the analyzed data be stored
+
+Analyzed data will be stored as 'YYYYMMDD_ Analyzed_Data' both on my computer and on Google Drive.
+
+# How will the data be shared
 
 The raw data may not be shared but the codes for the web crawling could be shared.
 
-    
-   
+​    
