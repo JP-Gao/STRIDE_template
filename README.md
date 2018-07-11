@@ -1,4 +1,4 @@
-## STRIDE_project_template
+## STRIDE_project
 Setting up a template repository to manage STRIDE projects
 
 Jinpeng Gao
@@ -11,6 +11,8 @@ My hypothesis is that for each vehicle make and model, the annual sales or seaso
 I plan to collect data from *2004-2016 China Auto Market Almanac* and https://www.autohome.com.cn.
 
 I plan to use 2004-2014 data as my training set and 2015~2016 data as my validation set.
+
+
 
 Any file or script added to this repository will be added or linked out to storage location from one of the following components:
 * Data management plan file (explains how data are to be organized, stored and shared)
