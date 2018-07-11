@@ -1,8 +1,31 @@
-The data will be collected by using web crawler and raw data will be stored in my personal computer and also on one drive. The raw data will be named as "Raw_Data" and stored as a csv file. 
-I will collect a comprehensive annual data set of all the car model marketed from the year 2004 to year 2013 in the Chinese automobile industry. Within each car model, I will collect information of quantity sales of each displacment of that model from 2004-2016 China Auto Market Almanac. For each model displacement, I will also gather price and information on vehicle characteristics.
-I will use www.autohome.com.cn as the main website to conduct web crawling. For each style of a ctertain vehicle model displacement, its characteristics could be divided into the following categories:
-I will conduct a basic linear regression first with the model sales as dependent variable and all other vehicle characteristics as the independent variables. I will also look at the correlation between varialbes and determine categorical or continuous variables.
-After the linear regression, I will also try different approaches like discrete choice model, random forest, support vector machine and so on.
+The data will be collected by using web crawler and raw data will be stored in my personal computer and also on one drive. 
+The raw data will be named as "Raw_Data" and stored as a csv file. 
+
+I will collect a comprehensive annual data set of all the car model marketed from the year 2004 to year 2013 in the Chinese
+ automobile industry. Within each car model, I will collect information of quantity sales of each displacment of that model 
+from 2004-2016 China Auto Market Almanac. For each model displacement, I will also gather price and information on vehicle 
+characteristics.
+
+I will use www.autohome.com.cn as the main website to conduct web crawling. For each style of a ctertain vehicle model 
+displacement, its characteristics could be divided into the following categories (need to be improved):
+1) Basic information: the year when this vehicle was produced, vehicle manufacturers(dummy or categorical), vehicle type
+(dummy or categorical, SUV, MPV, sedan, pick-up. etc)
+2) Engine: cylinder, 
+3) Powertrain: horsepower, transmission type, FF or FR, top speed, etc.
+4) Fuel: efficiency, displacement, way of air intake, etc.
+5) Dimension: LWH, wheelbase, #door, #seats
+6) Safety equipment: ABS, radar,  airbag.
+7) Exterior features: sunroof
+8) Interior features: heated seats, GPS, bluetooth, TV, AC
+9) Advanced technologies: autonomous vehicle technologies, park assist, drive assist
+10) Alternative fuel vehicles: if not powered by gasoline.
+
+
+I will conduct a basic linear regression first with the model sales as dependent variable and all other vehicle 
+characteristics as the independent variables. I will also look at the correlation between varialbes and determine 
+categorical or continuous variables.After the linear regression, I will also try different approaches like discrete
+ choice model, random forest, support vector machine and so on.
+
 Analyzed data will be stored as Analyzed_data both on my computer and on OneDrive.
 The raw data may not be shared but the codes for the web crawling could be shared.
 
