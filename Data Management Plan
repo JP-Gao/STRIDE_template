@@ -4,7 +4,7 @@ The data will be collected by using web crawler and raw data will be stored in m
 
 # How the raw data will be named
 
-The raw data will be named as "YYYYMMDD_Raw_Data" and stored as a csv file. 
+The raw data will be named as "YYYYMMDD_RawData_describing data contents" and stored as a csv file. 
 
 I will collect a comprehensive annual data set of all the car model marketed from the year 2004 to year 2013 in the Chinese automobile industry. Within each car model, I will collect information of quantity sales of each displacement of that model from 2004-2016 China Auto Market Almanac. For each model displacement, I will also gather price and information on vehicle characteristics. I will use www.autohome.com.cn as the main website to conduct web crawling. 
 
@@ -12,13 +12,13 @@ I will collect a comprehensive annual data set of all the car model marketed fro
 
 Linear regression, random forest, discrete choice model, support vector machine, gradient boosted tree and so on. These approaches may be used to analyze the relationship between sales and vehicle characteristics.
 
-# How will the analysis be recorded
+# How will the analysis be recorded 
 
 The analysis will also be on Google Drive.
 
 # Where will the analyzed data be stored
 
-Analyzed data will be stored as 'YYYYMMDD_ Analyzed_Data' both on my computer and on Google Drive.
+Analyzed data will be stored as 'YYYYMMDD_ Analyzed_Data_describing analysis done' both on my computer and on Google Drive.
 
 # How will the data be shared
 
