@@ -6,7 +6,10 @@ Transportation Technology and Policy
 # Research question
 
 The purpose of this project is to predict new car sales using historical vehicle transaction data in China vehicle market and determine the main driving factors for consumers to choose certain vehicles, therefore predicting energy use and greenhouse gas emissions.
-My hypothesis is that for each vehicle make and model, the annual sales or seasonal sales are correlated with the characteristics of the vehicle model, including the vehicle price, purchase tax, type of fuel, curb weight, engine power, type of drivertrain, number of seats and doors and so on. Using these variables as independent variables, the probability of choosing one specific vehicle model will be calculated or the sales of one specific vehicle model will be calculated.
+My hypothesis is that for each vehicle make and model, the annual sales or seasonal sales are correlated with the characteristics of the vehicle model, including the vehicle price, purchase tax, type of fuel, curb weight, engine power, type of drivertrain, number of seats and doors and so on. Using these variables as independent variables, the probability of choosing one specific vehicle model will be calculated or the sales of one specific vehicle model will be calculated. My overarching question is how vehicle sales are impacted by vehicle characteristics listed in the data source section below. 
+
+The first step: which characteristics are duplicated or highly correlated? This is what we are going to achieve during the incubator. 
+The second step: which characteristics impact the vehicle sales and what's their relationships. This will be the question I will try to answer after the incubator. 
 
 # Data source
 
